@@ -1,0 +1,22 @@
+.z-flex, .z-flex-fd-column, .z-flex-ai-center, .z-flex-jc-center, .z-flex-aijc-center, .z-flex-jc-sb {
+		display: flex;
+	}
+	.z-flex-fd-column {
+		flex-direction: column;
+	}
+	.z-flex-1 {
+		flex: 1;
+	}
+	.z-flex-ai-center {
+		align-items: center;
+	}
+	.z-flex-jc-center {
+		justify-content: center;
+	}
+	.z-flex-aijc-center {
+		align-items: center;
+		justify-content: center;
+	}
+	.z-flex-jc-sb {
+		justify-content: space-between;
+	}

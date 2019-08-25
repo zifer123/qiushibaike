@@ -1,0 +1,32 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "titleNView": {
+    "backgroundColor": "#FFFFFF",
+    "searchInput": {
+      "align": "center",
+      "backgroundColor": "#F7F7F7",
+      "borderRadius": "4px",
+      "disabled": true,
+      "placeholder": "搜索糗事"
+    },
+    "buttons": [
+      {
+        "color": "#FFA132",
+        "fontSize": "22px",
+        "float": "left",
+        "fontSrc": "/static/titleNViewIcons/iconfont.ttf",
+        "text": ""
+      },
+      {
+        "color": "#272727",
+        "fontSize": "22px",
+        "float": "right",
+        "fontSrc": "/static/titleNViewIcons/iconfont.ttf",
+        "text": ""
+      }
+    ]
+  },
+  "usingComponents": {
+    "image-text": "/components/ListItem/ImageText/index"
+  }
+}

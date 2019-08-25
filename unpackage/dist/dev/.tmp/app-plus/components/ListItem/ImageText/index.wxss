@@ -1,0 +1,55 @@
+
+.header {
+}
+.header-left .avatar {
+	width: 90rpx;
+	height: 90rpx;
+	border-radius: 50%;
+}
+.header-left .avatar image {
+	width: 100%;
+	height: 100% !important;
+	border-radius: 50%;
+}
+.header-left .username {
+	margin-left: 16rpx;
+	font-size: 16px;
+	letter-spacing: 2px;
+	color: #A3A3A3;
+}
+.header-right .follow {
+	background-color: #F4F4F4;
+	padding: 2px 6px;
+	border-radius: 1px;
+	font-size: 12px;
+	color: #333;
+}
+.header-right .close {
+	margin-left: 20rpx;
+	font-size: 12px;
+	color: #D6D6D6;
+	padding: 6rpx;
+}
+.title {
+	margin-top: 20rpx;
+	margin-bottom: 20rpx;
+	color: #1B1B1B;
+	font-weight: 400;
+	letter-spacing: 1px;
+}
+.image-wrapper {
+	height: 470rpx;
+	margin-bottom: 40rpx;
+}
+.image-wrapper image {
+	width: 100%;
+	height: 100% !important;
+	border-radius: 10rpx;
+}
+.footer-left {
+}
+.footer-left .num {
+	margin-left: 18rpx;
+	color: #DDDDDD;
+}
+
